@@ -1,0 +1,15 @@
+body{
+    /* color: #555; */
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400; 
+    font-size: 15px; 
+   
+    line-height: 1.5;
+   word-wrap: break-word;
+}
+
+.site-branding {
+    float: left;
+    padding: 0.3em 0 0;
+}
+
